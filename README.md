@@ -1,9 +1,5 @@
 # MicroService Architecture #
 
-Downloads
--
-- Maven 3.5.2 (https://maven.apache.org/download.cgi)
-
 
 Contents
 -
