@@ -14,7 +14,7 @@ intelliJ<br />
 Maven 3.5.2 (https://maven.apache.org/download.cgi)<br />
 spring boot 1.3.5 release<br />
 spring framework 4.2.6 release<br />
-RabbitMQ (http://www.rabbitmq.com/download.html)<br /><br />
+RabbitMQ 3.7.2 (http://www.rabbitmq.com/download.html)<br /><br />
 
 >Messaging with RabbitMQ GETTING STARTED(https://spring.io/guides/gs/messaging-rabbitmq)<br />
 AMQP doc (https://docs.spring.io/spring-boot/docs/1.5.9.RELEASE/reference/htmlsingle/#boot-features-amqp)
